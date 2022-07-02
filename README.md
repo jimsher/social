@@ -1,4 +1,4 @@
-my-app/
+jimi1/
   README.md
   node_modules/
   package.json
