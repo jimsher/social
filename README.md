@@ -12,7 +12,7 @@ jim1/
     index.css
     index.js
     logo.svg
-```
+
 
 
 * `public/index.html` is the page template;
