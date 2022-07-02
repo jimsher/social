@@ -13,3 +13,7 @@ jim1/
     index.js
     logo.svg
 ```
+
+
+* `public/index.html` is the page template;
+* `src/index.js` is the JavaScript entry point.
