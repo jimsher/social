@@ -1,4 +1,4 @@
-jimi1/
+jim1/
   README.md
   node_modules/
   package.json
